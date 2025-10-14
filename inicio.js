@@ -86,4 +86,9 @@ Framework (AngularJS y Vue, Ruby in rails, SolidJS, QwikJS, NextJS(el más popul
         }
     }
 
+
+    CREANDO UN PROYECTO REACT
+    creamos un proyecto React colocando el comando: create vite@latest
+
+
 */
